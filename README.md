@@ -62,6 +62,7 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 * 本 bash 依赖于 [V2ray 官方安装脚本](https://install.direct/go.sh) 及 [acme.sh](https://github.com/Neilpang/acme.sh) 工作。
 * Centos 系统用户请预先在防火墙中放行程序相关端口（默认：80，443）
 
+### 参考(其他文档)[https://www.idleleo.com/10/2148.html]
 
 ### 启动方式
 
